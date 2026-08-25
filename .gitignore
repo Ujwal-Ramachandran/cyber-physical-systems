@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+smartmeter_sca/tests/__init__.py
+smartmeter_sca/src/__init__.py
+smartmeter_sca/__init__.py
+smartmeter_sca/scripts/__init__.py
