@@ -1,6 +1,6 @@
 # Side-Channel Attack on a Smart Meter (CPS)
 
-**SE6012 Cyber-Physical System Security, CA1 demo. Team: Ujwal and Markie.**
+**SE6012 Cyber-Physical System Security, CA1 demo. Team: Ujwal, Markie, Armani Boi.**
 
 A laptop-only, CPU-only simulation that recovers a smart meter's AES-128 key
 from its power consumption using Correlation Power Analysis (CPA), then defeats
